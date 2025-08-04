@@ -21,3 +21,10 @@ console.log(booleanIsLoggedIn)
 let somenumber=19
 let stringnumber=String(somenumber)
 console.log(stringnumber);
+let str1="hello"
+let str2=" swasti"
+let str=str1+str2
+console.log(str)
+console.log(typeof str)
+console.log("1"+2+2)
+console.log(1+2+"2") 
